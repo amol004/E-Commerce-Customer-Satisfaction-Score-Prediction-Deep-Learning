@@ -5,7 +5,7 @@
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
-## 🧭 Overview
+##  Overview
 
 This project focuses on predicting **Customer Satisfaction (CSAT) scores** using **Deep Learning Artificial Neural Networks (ANN)**. In the context of **e-commerce**, understanding satisfaction from customer interactions and feedback is critical to driving **retention, service improvement**, and **business growth**.
 
@@ -13,7 +13,7 @@ By leveraging advanced neural networks trained on detailed interaction data, we 
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
-## 🧱 Project Background
+##  Project Background
 
 In today’s fast-paced digital retail landscape, **customer satisfaction** is a vital KPI. Traditionally measured through surveys, this method is limited by low response rates and latency.
 
@@ -21,7 +21,7 @@ This project seeks to replace passive feedback collection with **predictive mode
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
-## 📦 Dataset Overview
+##  Dataset Overview
 
 The dataset spans a one-month period of interactions on an e-commerce platform called **Shopzilla**. It captures a rich variety of features relevant to customer support, such as:
 
@@ -67,7 +67,7 @@ CSAT Score: Customer Satisfaction (CSAT) score (integer).
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
-## 🎯 Project Goal
+##  Project Goal
 
 Build a robust **deep learning model** that predicts CSAT scores from customer interaction data, helping businesses:
 
@@ -79,21 +79,21 @@ Ultimately, we aim to move **from reaction to prediction**, transforming static 
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
-## 📝 Specific Objectives
+##  Specific Objectives
 
-1. **🧹 Data Preparation:** Clean, normalize, and structure the dataset for training.
-2. **🧠 Feature Engineering:** Extract and transform key predictive indicators from raw fields.
-3. **🔧 Model Development:** Train an **Artificial Neural Network (ANN)** with multi-class output for CSAT categories.
-4. **📏 Evaluation:** Use accuracy, precision, recall, and F1-score to assess model performance.
-5. **📈 Insight Generation:** Interpret predictions to generate meaningful operational insights.
+1. ** Data Preparation:** Clean, normalize, and structure the dataset for training.
+2. ** Feature Engineering:** Extract and transform key predictive indicators from raw fields.
+3. ** Model Development:** Train an **Artificial Neural Network (ANN)** with multi-class output for CSAT categories.
+4. ** Evaluation:** Use accuracy, precision, recall, and F1-score to assess model performance.
+5. ** Insight Generation:** Interpret predictions to generate meaningful operational insights.
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
-## 📊 Model Performance
+##  Model Performance
 
 The ANN model was trained and evaluated on the Shopzilla CSAT dataset with the following results:
 
-### ✅ Accuracy Metrics
+###  Accuracy Metrics
 Average Cross-Validation Accuracy: 91.58%
 
 Highest Accuracy Achieved: 92.25%
@@ -101,14 +101,14 @@ Highest Accuracy Achieved: 92.25%
 Lowest Accuracy Achieved: 90.65%
 
 
-### 📌 Key Observations
+###  Key Observations
 - **Class 1 (Satisfied)** and **Class 2 (Very Satisfied)** are predicted with very high confidence.
 - **Class 4 (Neutral)** shows a strong recall, indicating the model captures ambivalence well.
 - Slight drop in recall for **Class 3 (Dissatisfied)** suggests some class overlap, possibly due to ambiguous feedback or edge cases.
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
-## 🧠 Technologies Used
+##  Technologies Used
 
 - **Programming Language:** Python 3.10+
 - **Deep Learning Framework:** TensorFlow / Keras
@@ -118,13 +118,13 @@ Lowest Accuracy Achieved: 90.65%
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
-## 🚀 Future Enhancements
+##  Future Enhancements
 
-- 🤖 Upgrade to Transformer-based architectures (BERT for sentiment-rich fields)
-- 🌐 Build a real-time dashboard using Streamlit
-- 🔍 Explainability with SHAP or LIME
-- 📡 Integrate with live chat systems for real-time CSAT scoring
-- 📈 Monthly retraining using fresh data
+-  Upgrade to Transformer-based architectures (BERT for sentiment-rich fields)
+-  Build a real-time dashboard using Streamlit
+-  Explainability with SHAP or LIME
+-  Integrate with live chat systems for real-time CSAT scoring
+-  Monthly retraining using fresh data
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
