@@ -1,6 +1,6 @@
 
 
-<h1 align="center">📊 Predicting Customer Satisfaction (CSAT) Scores Using Deep Learning</h1>
+<h1 align="center"> Predicting Customer Satisfaction (CSAT) Scores Using Deep Learning</h1>
 <h3 align="center">Deep Learning Artificial Neural Network (ANN) on E-Commerce Interaction Data</h3>
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
