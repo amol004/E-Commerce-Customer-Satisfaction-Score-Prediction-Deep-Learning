@@ -81,11 +81,11 @@ Ultimately, we aim to move **from reaction to prediction**, transforming static 
 
 ##  Specific Objectives
 
-1. ** Data Preparation:** Clean, normalize, and structure the dataset for training.
-2. ** Feature Engineering:** Extract and transform key predictive indicators from raw fields.
-3. ** Model Development:** Train an **Artificial Neural Network (ANN)** with multi-class output for CSAT categories.
-4. ** Evaluation:** Use accuracy, precision, recall, and F1-score to assess model performance.
-5. ** Insight Generation:** Interpret predictions to generate meaningful operational insights.
+1. **Data Preparation:** Clean, normalize, and structure the dataset for training.
+2. **Feature Engineering:** Extract and transform key predictive indicators from raw fields.
+3. **Model Development:** Train an **Artificial Neural Network (ANN)** with multi-class output for CSAT categories.
+4. **Evaluation:** Use accuracy, precision, recall, and F1-score to assess model performance.
+5. **Insight Generation:** Interpret predictions to generate meaningful operational insights.
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
